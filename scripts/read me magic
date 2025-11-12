@@ -1,0 +1,4 @@
+## Playlist Tools
+Run `python scripts/playlist_generator.py` pour générer le JSON.
+Exemple : [mr_robot_s1_sample.json](assets/mr_robot_s1_sample.json)
+Ma version live sur Spotify : [Lien ta playlist](https://open.spotify.com/playlist/1X2DZUcc8rrWpNdinDcZNx) – Ajoute le reste des tracks pour full vibes !
